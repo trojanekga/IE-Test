@@ -1,0 +1,11 @@
+#search-input {
+    display: flex;
+    width: 300px;
+    justify-content: center;
+    align-content: center;
+}
+
+.btn-info {
+    color: white;
+}
+
